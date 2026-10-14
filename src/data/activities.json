@@ -1,0 +1,14 @@
+{
+  "sports": [
+    "Cycling",
+    "Tennis"
+  ],
+  "artistic": [
+    "Pottery",
+    "Photography"
+  ],
+  "intellectual": [
+    "Chess",
+    "Language learning"
+  ]
+}
